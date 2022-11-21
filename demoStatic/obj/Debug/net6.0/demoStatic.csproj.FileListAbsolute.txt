@@ -1,0 +1,15 @@
+C:\1951\demoStatic\bin\Debug\net6.0\demoStatic.exe
+C:\1951\demoStatic\bin\Debug\net6.0\demoStatic.deps.json
+C:\1951\demoStatic\bin\Debug\net6.0\demoStatic.runtimeconfig.json
+C:\1951\demoStatic\bin\Debug\net6.0\demoStatic.dll
+C:\1951\demoStatic\bin\Debug\net6.0\demoStatic.pdb
+C:\1951\demoStatic\obj\Debug\net6.0\demoStatic.csproj.AssemblyReference.cache
+C:\1951\demoStatic\obj\Debug\net6.0\demoStatic.GeneratedMSBuildEditorConfig.editorconfig
+C:\1951\demoStatic\obj\Debug\net6.0\demoStatic.AssemblyInfoInputs.cache
+C:\1951\demoStatic\obj\Debug\net6.0\demoStatic.AssemblyInfo.cs
+C:\1951\demoStatic\obj\Debug\net6.0\demoStatic.csproj.CoreCompileInputs.cache
+C:\1951\demoStatic\obj\Debug\net6.0\demoStatic.dll
+C:\1951\demoStatic\obj\Debug\net6.0\refint\demoStatic.dll
+C:\1951\demoStatic\obj\Debug\net6.0\demoStatic.pdb
+C:\1951\demoStatic\obj\Debug\net6.0\demoStatic.genruntimeconfig.cache
+C:\1951\demoStatic\obj\Debug\net6.0\ref\demoStatic.dll

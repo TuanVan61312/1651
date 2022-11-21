@@ -1,0 +1,15 @@
+C:\1951\TicketSellingOOP\bin\Debug\net6.0\TicketSellingOOP.exe
+C:\1951\TicketSellingOOP\bin\Debug\net6.0\TicketSellingOOP.deps.json
+C:\1951\TicketSellingOOP\bin\Debug\net6.0\TicketSellingOOP.runtimeconfig.json
+C:\1951\TicketSellingOOP\bin\Debug\net6.0\TicketSellingOOP.dll
+C:\1951\TicketSellingOOP\bin\Debug\net6.0\TicketSellingOOP.pdb
+C:\1951\TicketSellingOOP\obj\Debug\net6.0\TicketSellingOOP.csproj.AssemblyReference.cache
+C:\1951\TicketSellingOOP\obj\Debug\net6.0\TicketSellingOOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\1951\TicketSellingOOP\obj\Debug\net6.0\TicketSellingOOP.AssemblyInfoInputs.cache
+C:\1951\TicketSellingOOP\obj\Debug\net6.0\TicketSellingOOP.AssemblyInfo.cs
+C:\1951\TicketSellingOOP\obj\Debug\net6.0\TicketSellingOOP.csproj.CoreCompileInputs.cache
+C:\1951\TicketSellingOOP\obj\Debug\net6.0\TicketSellingOOP.dll
+C:\1951\TicketSellingOOP\obj\Debug\net6.0\refint\TicketSellingOOP.dll
+C:\1951\TicketSellingOOP\obj\Debug\net6.0\TicketSellingOOP.pdb
+C:\1951\TicketSellingOOP\obj\Debug\net6.0\TicketSellingOOP.genruntimeconfig.cache
+C:\1951\TicketSellingOOP\obj\Debug\net6.0\ref\TicketSellingOOP.dll

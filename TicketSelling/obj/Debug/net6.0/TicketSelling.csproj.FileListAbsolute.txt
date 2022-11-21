@@ -1,0 +1,15 @@
+C:\1951\TicketSelling\bin\Debug\net6.0\TicketSelling.exe
+C:\1951\TicketSelling\bin\Debug\net6.0\TicketSelling.deps.json
+C:\1951\TicketSelling\bin\Debug\net6.0\TicketSelling.runtimeconfig.json
+C:\1951\TicketSelling\bin\Debug\net6.0\TicketSelling.dll
+C:\1951\TicketSelling\bin\Debug\net6.0\TicketSelling.pdb
+C:\1951\TicketSelling\obj\Debug\net6.0\TicketSelling.csproj.AssemblyReference.cache
+C:\1951\TicketSelling\obj\Debug\net6.0\TicketSelling.GeneratedMSBuildEditorConfig.editorconfig
+C:\1951\TicketSelling\obj\Debug\net6.0\TicketSelling.AssemblyInfoInputs.cache
+C:\1951\TicketSelling\obj\Debug\net6.0\TicketSelling.AssemblyInfo.cs
+C:\1951\TicketSelling\obj\Debug\net6.0\TicketSelling.csproj.CoreCompileInputs.cache
+C:\1951\TicketSelling\obj\Debug\net6.0\TicketSelling.dll
+C:\1951\TicketSelling\obj\Debug\net6.0\refint\TicketSelling.dll
+C:\1951\TicketSelling\obj\Debug\net6.0\TicketSelling.pdb
+C:\1951\TicketSelling\obj\Debug\net6.0\TicketSelling.genruntimeconfig.cache
+C:\1951\TicketSelling\obj\Debug\net6.0\ref\TicketSelling.dll

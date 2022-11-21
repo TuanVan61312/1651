@@ -1,0 +1,15 @@
+C:\1951\dicegame\bin\Debug\net6.0\dicegame.exe
+C:\1951\dicegame\bin\Debug\net6.0\dicegame.deps.json
+C:\1951\dicegame\bin\Debug\net6.0\dicegame.runtimeconfig.json
+C:\1951\dicegame\bin\Debug\net6.0\dicegame.dll
+C:\1951\dicegame\bin\Debug\net6.0\dicegame.pdb
+C:\1951\dicegame\obj\Debug\net6.0\dicegame.csproj.AssemblyReference.cache
+C:\1951\dicegame\obj\Debug\net6.0\dicegame.GeneratedMSBuildEditorConfig.editorconfig
+C:\1951\dicegame\obj\Debug\net6.0\dicegame.AssemblyInfoInputs.cache
+C:\1951\dicegame\obj\Debug\net6.0\dicegame.AssemblyInfo.cs
+C:\1951\dicegame\obj\Debug\net6.0\dicegame.csproj.CoreCompileInputs.cache
+C:\1951\dicegame\obj\Debug\net6.0\dicegame.dll
+C:\1951\dicegame\obj\Debug\net6.0\refint\dicegame.dll
+C:\1951\dicegame\obj\Debug\net6.0\dicegame.pdb
+C:\1951\dicegame\obj\Debug\net6.0\dicegame.genruntimeconfig.cache
+C:\1951\dicegame\obj\Debug\net6.0\ref\dicegame.dll

@@ -1,0 +1,15 @@
+C:\1951\testlogic2\bin\Debug\net6.0\testlogic2.exe
+C:\1951\testlogic2\bin\Debug\net6.0\testlogic2.deps.json
+C:\1951\testlogic2\bin\Debug\net6.0\testlogic2.runtimeconfig.json
+C:\1951\testlogic2\bin\Debug\net6.0\testlogic2.dll
+C:\1951\testlogic2\bin\Debug\net6.0\testlogic2.pdb
+C:\1951\testlogic2\obj\Debug\net6.0\testlogic2.csproj.AssemblyReference.cache
+C:\1951\testlogic2\obj\Debug\net6.0\testlogic2.GeneratedMSBuildEditorConfig.editorconfig
+C:\1951\testlogic2\obj\Debug\net6.0\testlogic2.AssemblyInfoInputs.cache
+C:\1951\testlogic2\obj\Debug\net6.0\testlogic2.AssemblyInfo.cs
+C:\1951\testlogic2\obj\Debug\net6.0\testlogic2.csproj.CoreCompileInputs.cache
+C:\1951\testlogic2\obj\Debug\net6.0\testlogic2.dll
+C:\1951\testlogic2\obj\Debug\net6.0\refint\testlogic2.dll
+C:\1951\testlogic2\obj\Debug\net6.0\testlogic2.pdb
+C:\1951\testlogic2\obj\Debug\net6.0\testlogic2.genruntimeconfig.cache
+C:\1951\testlogic2\obj\Debug\net6.0\ref\testlogic2.dll

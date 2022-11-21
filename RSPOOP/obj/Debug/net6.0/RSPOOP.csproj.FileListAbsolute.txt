@@ -1,0 +1,15 @@
+C:\1951\RSPOOP\bin\Debug\net6.0\RSPOOP.exe
+C:\1951\RSPOOP\bin\Debug\net6.0\RSPOOP.deps.json
+C:\1951\RSPOOP\bin\Debug\net6.0\RSPOOP.runtimeconfig.json
+C:\1951\RSPOOP\bin\Debug\net6.0\RSPOOP.dll
+C:\1951\RSPOOP\bin\Debug\net6.0\RSPOOP.pdb
+C:\1951\RSPOOP\obj\Debug\net6.0\RSPOOP.csproj.AssemblyReference.cache
+C:\1951\RSPOOP\obj\Debug\net6.0\RSPOOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\1951\RSPOOP\obj\Debug\net6.0\RSPOOP.AssemblyInfoInputs.cache
+C:\1951\RSPOOP\obj\Debug\net6.0\RSPOOP.AssemblyInfo.cs
+C:\1951\RSPOOP\obj\Debug\net6.0\RSPOOP.csproj.CoreCompileInputs.cache
+C:\1951\RSPOOP\obj\Debug\net6.0\RSPOOP.dll
+C:\1951\RSPOOP\obj\Debug\net6.0\refint\RSPOOP.dll
+C:\1951\RSPOOP\obj\Debug\net6.0\RSPOOP.pdb
+C:\1951\RSPOOP\obj\Debug\net6.0\RSPOOP.genruntimeconfig.cache
+C:\1951\RSPOOP\obj\Debug\net6.0\ref\RSPOOP.dll
