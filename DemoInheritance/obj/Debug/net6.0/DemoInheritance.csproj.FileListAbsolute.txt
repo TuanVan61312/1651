@@ -1,0 +1,15 @@
+C:\1951\DemoInheritance\bin\Debug\net6.0\DemoInheritance.exe
+C:\1951\DemoInheritance\bin\Debug\net6.0\DemoInheritance.deps.json
+C:\1951\DemoInheritance\bin\Debug\net6.0\DemoInheritance.runtimeconfig.json
+C:\1951\DemoInheritance\bin\Debug\net6.0\DemoInheritance.dll
+C:\1951\DemoInheritance\bin\Debug\net6.0\DemoInheritance.pdb
+C:\1951\DemoInheritance\obj\Debug\net6.0\DemoInheritance.csproj.AssemblyReference.cache
+C:\1951\DemoInheritance\obj\Debug\net6.0\DemoInheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\1951\DemoInheritance\obj\Debug\net6.0\DemoInheritance.AssemblyInfoInputs.cache
+C:\1951\DemoInheritance\obj\Debug\net6.0\DemoInheritance.AssemblyInfo.cs
+C:\1951\DemoInheritance\obj\Debug\net6.0\DemoInheritance.csproj.CoreCompileInputs.cache
+C:\1951\DemoInheritance\obj\Debug\net6.0\DemoInheritance.dll
+C:\1951\DemoInheritance\obj\Debug\net6.0\refint\DemoInheritance.dll
+C:\1951\DemoInheritance\obj\Debug\net6.0\DemoInheritance.pdb
+C:\1951\DemoInheritance\obj\Debug\net6.0\DemoInheritance.genruntimeconfig.cache
+C:\1951\DemoInheritance\obj\Debug\net6.0\ref\DemoInheritance.dll
