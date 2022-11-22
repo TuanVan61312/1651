@@ -7,7 +7,7 @@ namespace ProductManagement
 {
     public class Product
     {
-        protected string name;
+        public string name;
         public string Name
         {
             get { return name; }
@@ -24,7 +24,7 @@ namespace ProductManagement
             Name = "Computer";
             Price = 1000;
         }
-        public Product(string name, int price)
+        public Product(string name, double price)
         {
             Name = name;
             Price = price;

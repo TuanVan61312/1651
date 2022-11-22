@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 
 namespace ProductManagement
 {
-    public class Shop
+    public class Shop : SaleProduct
     {
         private List<Product> products;
         private List<SaleProduct> saleProducts;
@@ -38,7 +38,7 @@ namespace ProductManagement
             else
             {
                 System.Console.WriteLine("Enter % sales: ");
-                int sale = int.Parse(Console.ReadLine());
+                double sale = double.Parse(Console.ReadLine());
                 
                 SaleProduct sp = new SaleProduct(name, price, sale/100.0);
                 saleProducts.Add(sp);
@@ -58,7 +58,7 @@ namespace ProductManagement
         public void SellProduct()
         {
             System.Console.WriteLine("Enter product name: ");
-            string name = Console.ReadLine();
+            string Name = Console.ReadLine();
             
             foreach(SaleProduct sp in saleProducts)
             {
