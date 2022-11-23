@@ -58,7 +58,7 @@ namespace ProductManagement
         public void SellProduct()
         {
             System.Console.WriteLine("Enter product name: ");
-            string Name = Console.ReadLine();
+            string name = Console.ReadLine();
             
             foreach(SaleProduct sp in saleProducts)
             {
