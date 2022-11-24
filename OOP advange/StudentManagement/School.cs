@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 
 namespace StudentManagement
 {
-    public class School : Student
+    public class School
     {
         private List<BtecStudent> btecStudents;
         private List<TopupStudent> topupStudents;
