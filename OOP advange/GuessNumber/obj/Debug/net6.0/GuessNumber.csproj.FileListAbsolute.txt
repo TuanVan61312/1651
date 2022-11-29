@@ -1,0 +1,15 @@
+C:\1951\OOP advange\GuessNumber\obj\Debug\net6.0\GuessNumber.csproj.AssemblyReference.cache
+C:\1951\OOP advange\GuessNumber\obj\Debug\net6.0\GuessNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\1951\OOP advange\GuessNumber\obj\Debug\net6.0\GuessNumber.AssemblyInfoInputs.cache
+C:\1951\OOP advange\GuessNumber\obj\Debug\net6.0\GuessNumber.AssemblyInfo.cs
+C:\1951\OOP advange\GuessNumber\obj\Debug\net6.0\GuessNumber.csproj.CoreCompileInputs.cache
+C:\1951\OOP advange\GuessNumber\bin\Debug\net6.0\GuessNumber.exe
+C:\1951\OOP advange\GuessNumber\bin\Debug\net6.0\GuessNumber.deps.json
+C:\1951\OOP advange\GuessNumber\bin\Debug\net6.0\GuessNumber.runtimeconfig.json
+C:\1951\OOP advange\GuessNumber\bin\Debug\net6.0\GuessNumber.dll
+C:\1951\OOP advange\GuessNumber\bin\Debug\net6.0\GuessNumber.pdb
+C:\1951\OOP advange\GuessNumber\obj\Debug\net6.0\GuessNumber.dll
+C:\1951\OOP advange\GuessNumber\obj\Debug\net6.0\refint\GuessNumber.dll
+C:\1951\OOP advange\GuessNumber\obj\Debug\net6.0\GuessNumber.pdb
+C:\1951\OOP advange\GuessNumber\obj\Debug\net6.0\GuessNumber.genruntimeconfig.cache
+C:\1951\OOP advange\GuessNumber\obj\Debug\net6.0\ref\GuessNumber.dll
