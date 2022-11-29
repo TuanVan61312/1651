@@ -1,0 +1,15 @@
+C:\1951\OOP advange\MenuProgramBase\bin\Debug\net6.0\MenuProgramBase.exe
+C:\1951\OOP advange\MenuProgramBase\bin\Debug\net6.0\MenuProgramBase.deps.json
+C:\1951\OOP advange\MenuProgramBase\bin\Debug\net6.0\MenuProgramBase.runtimeconfig.json
+C:\1951\OOP advange\MenuProgramBase\bin\Debug\net6.0\MenuProgramBase.dll
+C:\1951\OOP advange\MenuProgramBase\bin\Debug\net6.0\MenuProgramBase.pdb
+C:\1951\OOP advange\MenuProgramBase\obj\Debug\net6.0\MenuProgramBase.csproj.AssemblyReference.cache
+C:\1951\OOP advange\MenuProgramBase\obj\Debug\net6.0\MenuProgramBase.GeneratedMSBuildEditorConfig.editorconfig
+C:\1951\OOP advange\MenuProgramBase\obj\Debug\net6.0\MenuProgramBase.AssemblyInfoInputs.cache
+C:\1951\OOP advange\MenuProgramBase\obj\Debug\net6.0\MenuProgramBase.AssemblyInfo.cs
+C:\1951\OOP advange\MenuProgramBase\obj\Debug\net6.0\MenuProgramBase.csproj.CoreCompileInputs.cache
+C:\1951\OOP advange\MenuProgramBase\obj\Debug\net6.0\MenuProgramBase.dll
+C:\1951\OOP advange\MenuProgramBase\obj\Debug\net6.0\refint\MenuProgramBase.dll
+C:\1951\OOP advange\MenuProgramBase\obj\Debug\net6.0\MenuProgramBase.pdb
+C:\1951\OOP advange\MenuProgramBase\obj\Debug\net6.0\MenuProgramBase.genruntimeconfig.cache
+C:\1951\OOP advange\MenuProgramBase\obj\Debug\net6.0\ref\MenuProgramBase.dll
