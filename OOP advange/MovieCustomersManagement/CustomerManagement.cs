@@ -16,7 +16,7 @@ namespace MovieCustomersManagement
        protected override void PrintMenu()
        {
             Console.WriteLine("1. Add PPV customer");
-            Console.WriteLine("2. Add subcribe customer");
+            Console.WriteLine("2. Add subcribe customer"); 
             Console.WriteLine("3. Print bills");
             Console.WriteLine("0. Exit");
        }
@@ -39,7 +39,7 @@ namespace MovieCustomersManagement
             string email = Console.ReadLine();
             Console.Write("Enter number of movies: ");
             int movies = int.Parse(Console.ReadLine());
-            customers.Add(new PPVCustomer(name, email, movies));
+            customers.Add(new PPVCustomer(int.Parse(name), email, movies.ToString()));
         }
         private void AddSubcribeCustomer()
         {
@@ -49,7 +49,7 @@ namespace MovieCustomersManagement
             string email = Console.ReadLine();
             Console.Write("Enter subcription type (0: monthly, 1: yearly): ");
             int subType = int.Parse(Console.ReadLine());
-            customers.Add(new SubcribeCustomer(name, email, subType));
+            customers.Add(new SubrciceCustomer(name, email, subType));
         }
         private void PrintBills()
         {
