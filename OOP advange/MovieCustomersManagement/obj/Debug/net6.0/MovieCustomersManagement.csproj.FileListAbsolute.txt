@@ -1,0 +1,15 @@
+C:\1951\OOP advange\MovieCustomersManagement\bin\Debug\net6.0\MovieCustomersManagement.exe
+C:\1951\OOP advange\MovieCustomersManagement\bin\Debug\net6.0\MovieCustomersManagement.deps.json
+C:\1951\OOP advange\MovieCustomersManagement\bin\Debug\net6.0\MovieCustomersManagement.runtimeconfig.json
+C:\1951\OOP advange\MovieCustomersManagement\bin\Debug\net6.0\MovieCustomersManagement.dll
+C:\1951\OOP advange\MovieCustomersManagement\bin\Debug\net6.0\MovieCustomersManagement.pdb
+C:\1951\OOP advange\MovieCustomersManagement\obj\Debug\net6.0\MovieCustomersManagement.csproj.AssemblyReference.cache
+C:\1951\OOP advange\MovieCustomersManagement\obj\Debug\net6.0\MovieCustomersManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\1951\OOP advange\MovieCustomersManagement\obj\Debug\net6.0\MovieCustomersManagement.AssemblyInfoInputs.cache
+C:\1951\OOP advange\MovieCustomersManagement\obj\Debug\net6.0\MovieCustomersManagement.AssemblyInfo.cs
+C:\1951\OOP advange\MovieCustomersManagement\obj\Debug\net6.0\MovieCustomersManagement.csproj.CoreCompileInputs.cache
+C:\1951\OOP advange\MovieCustomersManagement\obj\Debug\net6.0\MovieCustomersManagement.dll
+C:\1951\OOP advange\MovieCustomersManagement\obj\Debug\net6.0\refint\MovieCustomersManagement.dll
+C:\1951\OOP advange\MovieCustomersManagement\obj\Debug\net6.0\MovieCustomersManagement.pdb
+C:\1951\OOP advange\MovieCustomersManagement\obj\Debug\net6.0\MovieCustomersManagement.genruntimeconfig.cache
+C:\1951\OOP advange\MovieCustomersManagement\obj\Debug\net6.0\ref\MovieCustomersManagement.dll
