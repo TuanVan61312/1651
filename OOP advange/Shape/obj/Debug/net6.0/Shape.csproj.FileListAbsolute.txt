@@ -1,0 +1,15 @@
+C:\1951\OOP advange\Shape\bin\Debug\net6.0\Shape.exe
+C:\1951\OOP advange\Shape\bin\Debug\net6.0\Shape.deps.json
+C:\1951\OOP advange\Shape\bin\Debug\net6.0\Shape.runtimeconfig.json
+C:\1951\OOP advange\Shape\bin\Debug\net6.0\Shape.dll
+C:\1951\OOP advange\Shape\bin\Debug\net6.0\Shape.pdb
+C:\1951\OOP advange\Shape\obj\Debug\net6.0\Shape.csproj.AssemblyReference.cache
+C:\1951\OOP advange\Shape\obj\Debug\net6.0\Shape.GeneratedMSBuildEditorConfig.editorconfig
+C:\1951\OOP advange\Shape\obj\Debug\net6.0\Shape.AssemblyInfoInputs.cache
+C:\1951\OOP advange\Shape\obj\Debug\net6.0\Shape.AssemblyInfo.cs
+C:\1951\OOP advange\Shape\obj\Debug\net6.0\Shape.csproj.CoreCompileInputs.cache
+C:\1951\OOP advange\Shape\obj\Debug\net6.0\Shape.dll
+C:\1951\OOP advange\Shape\obj\Debug\net6.0\refint\Shape.dll
+C:\1951\OOP advange\Shape\obj\Debug\net6.0\Shape.pdb
+C:\1951\OOP advange\Shape\obj\Debug\net6.0\Shape.genruntimeconfig.cache
+C:\1951\OOP advange\Shape\obj\Debug\net6.0\ref\Shape.dll
