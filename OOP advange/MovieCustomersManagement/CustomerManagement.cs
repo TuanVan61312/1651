@@ -39,7 +39,7 @@ namespace MovieCustomersManagement
             string email = Console.ReadLine();
             Console.Write("Enter number of movies: ");
             int movies = int.Parse(Console.ReadLine());
-            customers.Add(new PPVCustomer(int.Parse(name), email, movies.ToString()));
+            customers.Add(new PPVCustomer(movies, name, email));
         }
         private void AddSubcribeCustomer()
         {
