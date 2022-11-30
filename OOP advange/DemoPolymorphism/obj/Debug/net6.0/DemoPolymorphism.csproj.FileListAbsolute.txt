@@ -1,0 +1,15 @@
+C:\1951\OOP advange\DemoPolymorphism\bin\Debug\net6.0\DemoPolymorphism.exe
+C:\1951\OOP advange\DemoPolymorphism\bin\Debug\net6.0\DemoPolymorphism.deps.json
+C:\1951\OOP advange\DemoPolymorphism\bin\Debug\net6.0\DemoPolymorphism.runtimeconfig.json
+C:\1951\OOP advange\DemoPolymorphism\bin\Debug\net6.0\DemoPolymorphism.dll
+C:\1951\OOP advange\DemoPolymorphism\bin\Debug\net6.0\DemoPolymorphism.pdb
+C:\1951\OOP advange\DemoPolymorphism\obj\Debug\net6.0\DemoPolymorphism.csproj.AssemblyReference.cache
+C:\1951\OOP advange\DemoPolymorphism\obj\Debug\net6.0\DemoPolymorphism.GeneratedMSBuildEditorConfig.editorconfig
+C:\1951\OOP advange\DemoPolymorphism\obj\Debug\net6.0\DemoPolymorphism.AssemblyInfoInputs.cache
+C:\1951\OOP advange\DemoPolymorphism\obj\Debug\net6.0\DemoPolymorphism.AssemblyInfo.cs
+C:\1951\OOP advange\DemoPolymorphism\obj\Debug\net6.0\DemoPolymorphism.csproj.CoreCompileInputs.cache
+C:\1951\OOP advange\DemoPolymorphism\obj\Debug\net6.0\DemoPolymorphism.dll
+C:\1951\OOP advange\DemoPolymorphism\obj\Debug\net6.0\refint\DemoPolymorphism.dll
+C:\1951\OOP advange\DemoPolymorphism\obj\Debug\net6.0\DemoPolymorphism.pdb
+C:\1951\OOP advange\DemoPolymorphism\obj\Debug\net6.0\DemoPolymorphism.genruntimeconfig.cache
+C:\1951\OOP advange\DemoPolymorphism\obj\Debug\net6.0\ref\DemoPolymorphism.dll

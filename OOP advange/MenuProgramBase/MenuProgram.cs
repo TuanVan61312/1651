@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 
 namespace MenuProgramBase
 {
-    public class MenuProgram
+    public abstract class MenuProgram
     {
         protected const int EXIT = 0;
         public void Run()
