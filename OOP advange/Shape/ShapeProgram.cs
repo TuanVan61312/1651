@@ -15,8 +15,9 @@ namespace Shape
         }
 
         protected override void PrintMenu()
-        {System.Console.WriteLine("_____________________________-__________________________________________________________-_____________________________________________________________________-_________");
-            System.Console.WriteLine("---Homework 69 Shape---");
+        {
+            
+            System.Console.WriteLine("-------------------");
             System.Console.WriteLine("1. Add new Circle ?");
             System.Console.WriteLine("2. Add new Rectangle ? ");
             System.Console.WriteLine("3. Add new Square ?");
