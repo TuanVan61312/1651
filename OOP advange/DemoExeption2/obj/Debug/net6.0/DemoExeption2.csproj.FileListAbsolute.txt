@@ -1,0 +1,15 @@
+C:\1951\OOP advange\DemoExeption2\bin\Debug\net6.0\DemoExeption2.exe
+C:\1951\OOP advange\DemoExeption2\bin\Debug\net6.0\DemoExeption2.deps.json
+C:\1951\OOP advange\DemoExeption2\bin\Debug\net6.0\DemoExeption2.runtimeconfig.json
+C:\1951\OOP advange\DemoExeption2\bin\Debug\net6.0\DemoExeption2.dll
+C:\1951\OOP advange\DemoExeption2\bin\Debug\net6.0\DemoExeption2.pdb
+C:\1951\OOP advange\DemoExeption2\obj\Debug\net6.0\DemoExeption2.csproj.AssemblyReference.cache
+C:\1951\OOP advange\DemoExeption2\obj\Debug\net6.0\DemoExeption2.GeneratedMSBuildEditorConfig.editorconfig
+C:\1951\OOP advange\DemoExeption2\obj\Debug\net6.0\DemoExeption2.AssemblyInfoInputs.cache
+C:\1951\OOP advange\DemoExeption2\obj\Debug\net6.0\DemoExeption2.AssemblyInfo.cs
+C:\1951\OOP advange\DemoExeption2\obj\Debug\net6.0\DemoExeption2.csproj.CoreCompileInputs.cache
+C:\1951\OOP advange\DemoExeption2\obj\Debug\net6.0\DemoExeption2.dll
+C:\1951\OOP advange\DemoExeption2\obj\Debug\net6.0\refint\DemoExeption2.dll
+C:\1951\OOP advange\DemoExeption2\obj\Debug\net6.0\DemoExeption2.pdb
+C:\1951\OOP advange\DemoExeption2\obj\Debug\net6.0\DemoExeption2.genruntimeconfig.cache
+C:\1951\OOP advange\DemoExeption2\obj\Debug\net6.0\ref\DemoExeption2.dll
