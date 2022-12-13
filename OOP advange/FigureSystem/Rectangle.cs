@@ -26,7 +26,7 @@ namespace FigureSystem
         }
         public override void Draw()
         {
-            for (int i = 0; i <= Height; i++)
+            for (int i = 0; i < Height; i++)
             {
                 DrawLine(Width);
             }
