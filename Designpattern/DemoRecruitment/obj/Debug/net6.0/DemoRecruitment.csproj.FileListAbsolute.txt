@@ -1,0 +1,30 @@
+C:\1951\OOP advange\DemoRecruitment\bin\Debug\net6.0\DemoRecruitment.exe
+C:\1951\OOP advange\DemoRecruitment\bin\Debug\net6.0\DemoRecruitment.deps.json
+C:\1951\OOP advange\DemoRecruitment\bin\Debug\net6.0\DemoRecruitment.runtimeconfig.json
+C:\1951\OOP advange\DemoRecruitment\bin\Debug\net6.0\DemoRecruitment.dll
+C:\1951\OOP advange\DemoRecruitment\bin\Debug\net6.0\DemoRecruitment.pdb
+C:\1951\OOP advange\DemoRecruitment\obj\Debug\net6.0\DemoRecruitment.csproj.AssemblyReference.cache
+C:\1951\OOP advange\DemoRecruitment\obj\Debug\net6.0\DemoRecruitment.GeneratedMSBuildEditorConfig.editorconfig
+C:\1951\OOP advange\DemoRecruitment\obj\Debug\net6.0\DemoRecruitment.AssemblyInfoInputs.cache
+C:\1951\OOP advange\DemoRecruitment\obj\Debug\net6.0\DemoRecruitment.AssemblyInfo.cs
+C:\1951\OOP advange\DemoRecruitment\obj\Debug\net6.0\DemoRecruitment.csproj.CoreCompileInputs.cache
+C:\1951\OOP advange\DemoRecruitment\obj\Debug\net6.0\DemoRecruitment.dll
+C:\1951\OOP advange\DemoRecruitment\obj\Debug\net6.0\refint\DemoRecruitment.dll
+C:\1951\OOP advange\DemoRecruitment\obj\Debug\net6.0\DemoRecruitment.pdb
+C:\1951\OOP advange\DemoRecruitment\obj\Debug\net6.0\DemoRecruitment.genruntimeconfig.cache
+C:\1951\OOP advange\DemoRecruitment\obj\Debug\net6.0\ref\DemoRecruitment.dll
+C:\1951\Designpattern\DemoRecruitment\obj\Debug\net6.0\DemoRecruitment.csproj.AssemblyReference.cache
+C:\1951\Designpattern\DemoRecruitment\obj\Debug\net6.0\DemoRecruitment.GeneratedMSBuildEditorConfig.editorconfig
+C:\1951\Designpattern\DemoRecruitment\obj\Debug\net6.0\DemoRecruitment.AssemblyInfoInputs.cache
+C:\1951\Designpattern\DemoRecruitment\obj\Debug\net6.0\DemoRecruitment.AssemblyInfo.cs
+C:\1951\Designpattern\DemoRecruitment\obj\Debug\net6.0\DemoRecruitment.csproj.CoreCompileInputs.cache
+C:\1951\Designpattern\DemoRecruitment\obj\Debug\net6.0\DemoRecruitment.dll
+C:\1951\Designpattern\DemoRecruitment\obj\Debug\net6.0\refint\DemoRecruitment.dll
+C:\1951\Designpattern\DemoRecruitment\obj\Debug\net6.0\DemoRecruitment.pdb
+C:\1951\Designpattern\DemoRecruitment\bin\Debug\net6.0\DemoRecruitment.exe
+C:\1951\Designpattern\DemoRecruitment\bin\Debug\net6.0\DemoRecruitment.deps.json
+C:\1951\Designpattern\DemoRecruitment\bin\Debug\net6.0\DemoRecruitment.runtimeconfig.json
+C:\1951\Designpattern\DemoRecruitment\bin\Debug\net6.0\DemoRecruitment.dll
+C:\1951\Designpattern\DemoRecruitment\bin\Debug\net6.0\DemoRecruitment.pdb
+C:\1951\Designpattern\DemoRecruitment\obj\Debug\net6.0\DemoRecruitment.genruntimeconfig.cache
+C:\1951\Designpattern\DemoRecruitment\obj\Debug\net6.0\ref\DemoRecruitment.dll
