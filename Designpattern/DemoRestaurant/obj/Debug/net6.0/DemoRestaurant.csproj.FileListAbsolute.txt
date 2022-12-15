@@ -1,0 +1,15 @@
+C:\1951\Designpattern\DemoRestaurant\bin\Debug\net6.0\DemoRestaurant.exe
+C:\1951\Designpattern\DemoRestaurant\bin\Debug\net6.0\DemoRestaurant.deps.json
+C:\1951\Designpattern\DemoRestaurant\bin\Debug\net6.0\DemoRestaurant.runtimeconfig.json
+C:\1951\Designpattern\DemoRestaurant\bin\Debug\net6.0\DemoRestaurant.dll
+C:\1951\Designpattern\DemoRestaurant\bin\Debug\net6.0\DemoRestaurant.pdb
+C:\1951\Designpattern\DemoRestaurant\obj\Debug\net6.0\DemoRestaurant.csproj.AssemblyReference.cache
+C:\1951\Designpattern\DemoRestaurant\obj\Debug\net6.0\DemoRestaurant.GeneratedMSBuildEditorConfig.editorconfig
+C:\1951\Designpattern\DemoRestaurant\obj\Debug\net6.0\DemoRestaurant.AssemblyInfoInputs.cache
+C:\1951\Designpattern\DemoRestaurant\obj\Debug\net6.0\DemoRestaurant.AssemblyInfo.cs
+C:\1951\Designpattern\DemoRestaurant\obj\Debug\net6.0\DemoRestaurant.csproj.CoreCompileInputs.cache
+C:\1951\Designpattern\DemoRestaurant\obj\Debug\net6.0\DemoRestaurant.dll
+C:\1951\Designpattern\DemoRestaurant\obj\Debug\net6.0\refint\DemoRestaurant.dll
+C:\1951\Designpattern\DemoRestaurant\obj\Debug\net6.0\DemoRestaurant.pdb
+C:\1951\Designpattern\DemoRestaurant\obj\Debug\net6.0\DemoRestaurant.genruntimeconfig.cache
+C:\1951\Designpattern\DemoRestaurant\obj\Debug\net6.0\ref\DemoRestaurant.dll
