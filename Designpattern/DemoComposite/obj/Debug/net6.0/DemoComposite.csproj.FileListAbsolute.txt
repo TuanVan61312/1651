@@ -1,0 +1,15 @@
+C:\1951\Designpattern\DemoComposite\bin\Debug\net6.0\DemoComposite.exe
+C:\1951\Designpattern\DemoComposite\bin\Debug\net6.0\DemoComposite.deps.json
+C:\1951\Designpattern\DemoComposite\bin\Debug\net6.0\DemoComposite.runtimeconfig.json
+C:\1951\Designpattern\DemoComposite\bin\Debug\net6.0\DemoComposite.dll
+C:\1951\Designpattern\DemoComposite\bin\Debug\net6.0\DemoComposite.pdb
+C:\1951\Designpattern\DemoComposite\obj\Debug\net6.0\DemoComposite.csproj.AssemblyReference.cache
+C:\1951\Designpattern\DemoComposite\obj\Debug\net6.0\DemoComposite.GeneratedMSBuildEditorConfig.editorconfig
+C:\1951\Designpattern\DemoComposite\obj\Debug\net6.0\DemoComposite.AssemblyInfoInputs.cache
+C:\1951\Designpattern\DemoComposite\obj\Debug\net6.0\DemoComposite.AssemblyInfo.cs
+C:\1951\Designpattern\DemoComposite\obj\Debug\net6.0\DemoComposite.csproj.CoreCompileInputs.cache
+C:\1951\Designpattern\DemoComposite\obj\Debug\net6.0\DemoComposite.dll
+C:\1951\Designpattern\DemoComposite\obj\Debug\net6.0\refint\DemoComposite.dll
+C:\1951\Designpattern\DemoComposite\obj\Debug\net6.0\DemoComposite.pdb
+C:\1951\Designpattern\DemoComposite\obj\Debug\net6.0\DemoComposite.genruntimeconfig.cache
+C:\1951\Designpattern\DemoComposite\obj\Debug\net6.0\ref\DemoComposite.dll

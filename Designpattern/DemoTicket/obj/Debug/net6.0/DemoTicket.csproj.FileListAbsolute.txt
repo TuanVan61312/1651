@@ -1,0 +1,15 @@
+C:\1951\Designpattern\DemoTicket\bin\Debug\net6.0\DemoTicket.exe
+C:\1951\Designpattern\DemoTicket\bin\Debug\net6.0\DemoTicket.deps.json
+C:\1951\Designpattern\DemoTicket\bin\Debug\net6.0\DemoTicket.runtimeconfig.json
+C:\1951\Designpattern\DemoTicket\bin\Debug\net6.0\DemoTicket.dll
+C:\1951\Designpattern\DemoTicket\bin\Debug\net6.0\DemoTicket.pdb
+C:\1951\Designpattern\DemoTicket\obj\Debug\net6.0\DemoTicket.csproj.AssemblyReference.cache
+C:\1951\Designpattern\DemoTicket\obj\Debug\net6.0\DemoTicket.GeneratedMSBuildEditorConfig.editorconfig
+C:\1951\Designpattern\DemoTicket\obj\Debug\net6.0\DemoTicket.AssemblyInfoInputs.cache
+C:\1951\Designpattern\DemoTicket\obj\Debug\net6.0\DemoTicket.AssemblyInfo.cs
+C:\1951\Designpattern\DemoTicket\obj\Debug\net6.0\DemoTicket.csproj.CoreCompileInputs.cache
+C:\1951\Designpattern\DemoTicket\obj\Debug\net6.0\DemoTicket.dll
+C:\1951\Designpattern\DemoTicket\obj\Debug\net6.0\refint\DemoTicket.dll
+C:\1951\Designpattern\DemoTicket\obj\Debug\net6.0\DemoTicket.pdb
+C:\1951\Designpattern\DemoTicket\obj\Debug\net6.0\DemoTicket.genruntimeconfig.cache
+C:\1951\Designpattern\DemoTicket\obj\Debug\net6.0\ref\DemoTicket.dll
