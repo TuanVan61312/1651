@@ -1,7 +1,9 @@
 using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Threading.Tasks;
 
-
-namespace TicketSellingOOP
+namespace ASM1Demo
 {
     public class Ticket
     {
@@ -9,7 +11,6 @@ namespace TicketSellingOOP
         private string seats;
         private int number;
 
-        // TODO: write properties, default constructor & parameterized constructor
         public string Movie 
         {
             get { return movie; }
@@ -27,11 +28,10 @@ namespace TicketSellingOOP
         }
         public Ticket()
         {
-            Movie = "X-men";
+            Movie = "No Movie";
             Seats = "1A";
             Number = 1;
         }
-
         public Ticket(string movie, string seats, int number)
         {
             Movie = movie;

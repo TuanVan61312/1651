@@ -1,0 +1,15 @@
+C:\1951\ASM1Demo\bin\Debug\net6.0\ASM1Demo.exe
+C:\1951\ASM1Demo\bin\Debug\net6.0\ASM1Demo.deps.json
+C:\1951\ASM1Demo\bin\Debug\net6.0\ASM1Demo.runtimeconfig.json
+C:\1951\ASM1Demo\bin\Debug\net6.0\ASM1Demo.dll
+C:\1951\ASM1Demo\bin\Debug\net6.0\ASM1Demo.pdb
+C:\1951\ASM1Demo\obj\Debug\net6.0\ASM1Demo.csproj.AssemblyReference.cache
+C:\1951\ASM1Demo\obj\Debug\net6.0\ASM1Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\1951\ASM1Demo\obj\Debug\net6.0\ASM1Demo.AssemblyInfoInputs.cache
+C:\1951\ASM1Demo\obj\Debug\net6.0\ASM1Demo.AssemblyInfo.cs
+C:\1951\ASM1Demo\obj\Debug\net6.0\ASM1Demo.csproj.CoreCompileInputs.cache
+C:\1951\ASM1Demo\obj\Debug\net6.0\ASM1Demo.dll
+C:\1951\ASM1Demo\obj\Debug\net6.0\refint\ASM1Demo.dll
+C:\1951\ASM1Demo\obj\Debug\net6.0\ASM1Demo.pdb
+C:\1951\ASM1Demo\obj\Debug\net6.0\ASM1Demo.genruntimeconfig.cache
+C:\1951\ASM1Demo\obj\Debug\net6.0\ref\ASM1Demo.dll

@@ -1,7 +1,4 @@
 using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
 
 namespace TicketSellingOOP
 {
@@ -12,26 +9,27 @@ namespace TicketSellingOOP
         public void PrintMovies()
         {
             // print a menu of 3 movies
+            System.Console.WriteLine("Movies List");
             for (int i = 0; i < movies.Length; i++)
             {
-                Console.WriteLine("movies list");
-                Console.WriteLine((i+1) + "." + movies[i]);
+                Console.WriteLine((i+1) + ". " + movies[i]);
             }
         }
 
         public void PrintTicket(Ticket t)
         {
             // print ticket attributes (movie, seats, number)
-            Console.WriteLine("Ticket infomation: ");
-            Console.WriteLine("Movies: " + t.Movie);
-            Console.WriteLine("Seat: " + t.Seats);
-            Console.WriteLine("Number of ticket: " + t.Number);
+            System.Console.WriteLine("Ticket Information: ");
+            System.Console.WriteLine("Movie: " + t.Movie);
+            System.Console.WriteLine("Seats: " + t.Seats);
+            System.Console.WriteLine("Number of ticets: " + t.Number);
+
         }
         public void PrintInvoice(Customer c)
         {
             // calculate payment based customer's ticket & vip
             int payment = TICKET_PRICE * c.MyTicket.Number;
-            Console.WriteLine("payment: " + payment);
+            System.Console.WriteLine("Payment: " + payment);
         }
 
         public void SellTickets()
@@ -57,5 +55,6 @@ namespace TicketSellingOOP
                 PrintInvoice(c);
             }
         }
+        
     }
 }

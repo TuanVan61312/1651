@@ -1,14 +1,11 @@
 using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
 
 namespace TicketSellingOOP
 {
     public class Customer
     {
         private int MIN_NTICKET = 1;
-        private int MAX_TICKET = 5;
+        private int MAX_NTICKET = 5;
         public bool VIP { get; set; }
         public Ticket MyTicket { get; set; }
 
@@ -23,26 +20,30 @@ namespace TicketSellingOOP
             // then return choice
             bool invalidChoice = true;
             int choice = 0;
-            while(invalidChoice)
+            while (invalidChoice)
             {
-                Console.Write("your choice: ");
+                Console.Write("Your choice: ");
                 choice = int.Parse(Console.ReadLine());
                 invalidChoice = (choice < 1) || (choice > maxChoice);
-                if (invalidChoice) System.Console.WriteLine("Invalid choice, try again");
+                if (invalidChoice) System.Console.WriteLine("Invalid choice. Try again!");
             }
-            return choice;  
+            
+            return choice;
         }
 
-        public int GetNumberOfTickets()
+        public int GetNumberOfTickets() // 1 - 5 tickets
         {
-            bool invalidTicket = true;
+            // ask user to enter number of tickets
+            // return number
+            bool invalidNTickets = true;
             int nTickets = 0;
-            while(invalidTicket)
+            while (invalidNTickets)
             {
-                Console.Write("How many tickets?");
+                Console.Write("Enter number of tickets: ");
                 nTickets = int.Parse(Console.ReadLine());
-                invalidTicket = (nTickets < MIN_NTICKET) || (nTickets > MAX_TICKET);
-                if (invalidTicket) System.Console.WriteLine("number must be in [1,5], try again");  
+                invalidNTickets = (nTickets < MIN_NTICKET) || (nTickets) > MAX_NTICKET;
+                if (invalidNTickets) 
+                    System.Console.WriteLine("Number must be in [1, 5]. Try again.");
             }
             
             return nTickets;
@@ -50,10 +51,12 @@ namespace TicketSellingOOP
 
         public string GetSeats(int nTickets)
         {
+            // use for loop to ask user enter seats, concat seat to a string
+            // return seats string
             string seats = "";
             for (int i = 0; i < nTickets; i++)
             {
-                Console.WriteLine("enter seat: ");
+                Console.Write("Enter seat: ");
                 string seat = Console.ReadLine();
                 seats += seat;
             }
@@ -64,15 +67,12 @@ namespace TicketSellingOOP
         {
             // ask user if user wants to be VIP or not
             // set VIP property
-             Console.Write("are you a vip member ? (y/n): ");
-            string answer = Console.ReadLine();
-            if(answer == "Y")
-            {
-                VIP = true;
-            }else
-            {
-                VIP = false;
-            }
+            System.Console.Write("Are you a VIP member? y/n: ");
+            string answer = System.Console.ReadLine();
+            if (answer == "y") VIP = true;
+            else               VIP = false;
+
         } 
+
     }
 }
